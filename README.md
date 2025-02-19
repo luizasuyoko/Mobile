@@ -1,7 +1,7 @@
 ## Curso Mobile
 introdução ao POO (Programação Orientada a Objetos)
     -Java
-        -Intsalação e Configuração
+        - Intsalação e Configuração
         -lógica de programação em Java
         -conceitos:
             -classe
